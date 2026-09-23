@@ -1,0 +1,7 @@
+# relatórios gerados
+dou_*.html
+
+# senhas e configurações locais
+.env
+
+__pycache__/
